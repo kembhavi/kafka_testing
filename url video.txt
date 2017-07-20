@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=GVqbL78iCqc
+
+
+
+http://maheshdharmasena.blogspot.in/2015/02/build-apache-kafka-on-eclipses-and-run.html
+
+https://cwiki.apache.org/confluence/display/KAFKA/Eclipse-Scala-Gradle-Git+Developement+Environment+Setup
+
+https://github.com/typesafehub/sbteclipse
+
+https://www.google.co.in/search?q=build+kafka+in+eclipse&sa=X&ved=0ahUKEwihgdeg7Y_VAhXDFJQKHRj2DBAQ1QIIdygF
+
+https://www.google.co.in/search?q=kafka+plugin+for+eclipse&sa=X&ved=0ahUKEwihgdeg7Y_VAhXDFJQKHRj2DBAQ1QIIcigA
+
+project URL:
+
+https://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/
+
+https://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9/
+
+
+https://stackoverflow.com/questions/33521436/junit-noclassdeffounderror-org-junit-runner-manipulation-filter
+https://www.codenotfound.com/2016/09/spring-kafka-consumer-producer-example.html
